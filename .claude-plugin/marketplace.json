@@ -4,7 +4,7 @@
   "description": "The LinkedIn agent skill pack for Claude",
   "owner": {
     "name": "Avi Grondin",
-    "url": "https://github.com/avi691/linkedin-agent-skill"
+    "url": "https://github.com/RanjanaPakkam/linkedIn-agent"
   },
   "plugins": [
     {
@@ -12,7 +12,7 @@
       "description": "Eleven Claude skills that run a LinkedIn account, including a humanizer that strips the AI fingerprint and scores the draft on a five-check panel.",
       "source": "./",
       "category": "productivity",
-      "homepage": "https://github.com/avi691/linkedin-agent-skill"
+      "homepage": "https://github.com/RanjanaPakkam/linkedIn-agent"
     }
   ]
 }

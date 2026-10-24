@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "author": {
     "name": "Avi Grondin",
-    "url": "https://github.com/avi691/linkedin-agent-skill"
+    "url": "https://github.com/RanjanaPakkam/linkedIn-agent"
   },
-  "homepage": "https://github.com/avi691/linkedin-agent-skill",
-  "repository": "https://github.com/avi691/linkedin-agent-skill",
+  "homepage": "https://github.com/RanjanaPakkam/linkedIn-agent",
+  "repository": "https://github.com/RanjanaPakkam/linkedIn-agent",
   "license": "MIT",
   "keywords": [
     "linkedin",

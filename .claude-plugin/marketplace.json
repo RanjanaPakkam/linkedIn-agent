@@ -3,7 +3,7 @@
   "name": "linkedin-agent-skill",
   "description": "The LinkedIn agent skill pack for Claude",
   "owner": {
-    "name": "Avi Grondin",
+    "name": "RanjanaPakkam",
     "url": "https://github.com/RanjanaPakkam/linkedIn-agent"
   },
   "plugins": [
